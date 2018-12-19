@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>Contact</title>
+	<title>Gallery</title>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 <!--===============================================================================================-->
@@ -43,7 +43,7 @@
 				<div class="wrap_header trans-0-3">
 					<!-- Logo -->
 					<div class="logo">
-						<a href="index.html">
+						<a href="/">
 							<img src="images/icons/logo.png" alt="IMG-LOGO" data-logofixed="images/icons/logo2.png">
 						</a>
 					</div>
@@ -53,31 +53,31 @@
 						<nav class="menu">
 							<ul class="main_menu">
 								<li>
-									<a href="index.html">Home</a>
+									<a href="/">Home</a>
 								</li>
 
 								<li>
-									<a href="menu.html">Menu</a>
+									<a href="/menu">Menu</a>
 								</li>
 
 								<li>
-									<a href="reservation.html">Reservation</a>
+									<a href="/reservation">Reservation</a>
 								</li>
 
 								<li>
-									<a href="gallery.html">Gallery</a>
+									<a href="/gallery">Gallery</a>
 								</li>
 
 								<li>
-									<a href="about.html">About</a>
+									<a href="/about">About</a>
 								</li>
 
 								<li>
-									<a href="blog.html">Blog</a>
+									<a href="/blog">Blog</a>
 								</li>
 
 								<li>
-									<a href="contact.html">Contact</a>
+									<a href="/contact">Contact</a>
 								</li>
 							</ul>
 						</nav>
@@ -104,32 +104,32 @@
 		<!-- - -->
 		<ul class="menu-sidebar p-t-95 p-b-70">
 			<li class="t-center m-b-13">
-				<a href="index.html" class="txt19">Home</a>
+				<a href="/" class="txt19">Home</a>
 			</li>
 
 			<li class="t-center m-b-13">
-				<a href="menu.html" class="txt19">Menu</a>
+				<a href="/menu" class="txt19">Menu</a>
 			</li>
 
 			<li class="t-center m-b-13">
-				<a href="gallery.html" class="txt19">Gallery</a>
+				<a href="/gallery" class="txt19">Gallery</a>
 			</li>
 
 			<li class="t-center m-b-13">
-				<a href="about.html" class="txt19">About</a>
+				<a href="/about" class="txt19">About</a>
 			</li>
 
 			<li class="t-center m-b-13">
-				<a href="blog.html" class="txt19">Blog</a>
+				<a href="/blog" class="txt19">Blog</a>
 			</li>
 
 			<li class="t-center m-b-33">
-				<a href="contact.html" class="txt19">Contact</a>
+				<a href="/contact" class="txt19">Contact</a>
 			</li>
 
 			<li class="t-center">
 				<!-- Button3 -->
-				<a href="reservation.html" class="btn3 flex-c-m size13 txt11 trans-0-4 m-l-r-auto">
+				<a href="/reservation" class="btn3 flex-c-m size13 txt11 trans-0-4 m-l-r-auto">
 					Reservation
 				</a>
 			</li>
@@ -187,137 +187,145 @@
 	<!-- Title Page -->
 	<section class="bg-title-page flex-c-m p-t-160 p-b-80 p-l-15 p-r-15" style="background-image: url(images/bg-title-page-02.jpg);">
 		<h2 class="tit6 t-center">
-			Contact
+			Gallery
 		</h2>
 	</section>
 
 
 
-	<!-- Contact form -->
-	<section class="section-contact bg1-pattern p-t-90 p-b-113">
-		<!-- Map -->
-		<div class="container">
-			<div class="map bo8 bo-rad-10 of-hidden">
-				<div class="contact-map size37" id="google_map" data-map-x="40.704644" data-map-y="-74.011987" data-pin="images/icons/icon-position-map.png" data-scrollwhell="0" data-draggable="1"></div>
+	<!-- Gallery -->
+	<div class="section-gallery p-t-118 p-b-100">
+		<div class="wrap-label-gallery filter-tope-group size27 flex-w flex-sb-m m-l-r-auto flex-col-c-sm p-l-15 p-r-15 m-b-60">
+			<button class="label-gallery txt26 trans-0-4 is-actived" data-filter="*">
+				All Photo
+			</button>
+
+			<button class="label-gallery txt26 trans-0-4" data-filter=".interior">
+				Interior
+			</button>
+
+			<button class="label-gallery txt26 trans-0-4" data-filter=".food">
+				Food
+			</button>
+
+			<button class="label-gallery txt26 trans-0-4" data-filter=".events">
+				Events
+			</button>
+
+			<button class="label-gallery txt26 trans-0-4" data-filter=".guests">
+				Vip guests
+			</button>
+		</div>
+
+		<div class="wrap-gallery isotope-grid flex-w p-l-25 p-r-25">
+			<!-- - -->
+			<div class="item-gallery isotope-item bo-rad-10 hov-img-zoom events guests">
+				<img src="images/photo-gallery-13.jpg" alt="IMG-GALLERY">
+
+				<div class="overlay-item-gallery trans-0-4 flex-c-m">
+					<a class="btn-show-gallery flex-c-m fa fa-search" href="images/photo-gallery-13.jpg" data-lightbox="gallery"></a>
+				</div>
+			</div>
+
+			<!-- - -->
+			<div class="item-gallery isotope-item bo-rad-10 hov-img-zoom food">
+				<img src="images/photo-gallery-14.jpg" alt="IMG-GALLERY">
+
+				<div class="overlay-item-gallery trans-0-4 flex-c-m">
+					<a class="btn-show-gallery flex-c-m fa fa-search" href="images/photo-gallery-14.jpg" data-lightbox="gallery"></a>
+				</div>
+			</div>
+
+			<!-- - -->
+			<div class="item-gallery isotope-item bo-rad-10 hov-img-zoom events">
+				<img src="images/photo-gallery-15.jpg" alt="IMG-GALLERY">
+
+				<div class="overlay-item-gallery trans-0-4 flex-c-m">
+					<a class="btn-show-gallery flex-c-m fa fa-search" href="images/photo-gallery-15.jpg" data-lightbox="gallery"></a>
+				</div>
+			</div>
+
+			<!-- - -->
+			<div class="item-gallery isotope-item bo-rad-10 hov-img-zoom food">
+				<img src="images/photo-gallery-16.jpg" alt="IMG-GALLERY">
+
+				<div class="overlay-item-gallery trans-0-4 flex-c-m">
+					<a class="btn-show-gallery flex-c-m fa fa-search" href="images/photo-gallery-16.jpg" data-lightbox="gallery"></a>
+				</div>
+			</div>
+
+			<!-- - -->
+			<div class="item-gallery isotope-item bo-rad-10 hov-img-zoom food">
+				<img src="images/photo-gallery-17.jpg" alt="IMG-GALLERY">
+
+				<div class="overlay-item-gallery trans-0-4 flex-c-m">
+					<a class="btn-show-gallery flex-c-m fa fa-search" href="images/photo-gallery-17.jpg" data-lightbox="gallery"></a>
+				</div>
+			</div>
+
+			<!-- - -->
+			<div class="item-gallery isotope-item bo-rad-10 hov-img-zoom interior guests">
+				<img src="images/photo-gallery-18.jpg" alt="IMG-GALLERY">
+
+				<div class="overlay-item-gallery trans-0-4 flex-c-m">
+					<a class="btn-show-gallery flex-c-m fa fa-search" href="images/photo-gallery-18.jpg" data-lightbox="gallery"></a>
+				</div>
+			</div>
+
+			<!-- - -->
+			<div class="item-gallery isotope-item bo-rad-10 hov-img-zoom interior">
+				<img src="images/photo-gallery-19.jpg" alt="IMG-GALLERY">
+
+				<div class="overlay-item-gallery trans-0-4 flex-c-m">
+					<a class="btn-show-gallery flex-c-m fa fa-search" href="images/photo-gallery-19.jpg" data-lightbox="gallery"></a>
+				</div>
+			</div>
+
+			<!-- - -->
+			<div class="item-gallery isotope-item bo-rad-10 hov-img-zoom interior">
+				<img src="images/photo-gallery-20.jpg" alt="IMG-GALLERY">
+
+				<div class="overlay-item-gallery trans-0-4 flex-c-m">
+					<a class="btn-show-gallery flex-c-m fa fa-search" href="images/photo-gallery-20.jpg" data-lightbox="gallery"></a>
+				</div>
+			</div>
+
+			<!-- - -->
+			<div class="item-gallery isotope-item bo-rad-10 hov-img-zoom events">
+				<img src="images/photo-gallery-21.jpg" alt="IMG-GALLERY">
+
+				<div class="overlay-item-gallery trans-0-4 flex-c-m">
+					<a class="btn-show-gallery flex-c-m fa fa-search" href="images/photo-gallery-21.jpg" data-lightbox="gallery"></a>
+				</div>
 			</div>
 		</div>
 
-		<div class="container">
-			<h3 class="tit7 t-center p-b-62 p-t-105">
-				Send us a Message
-			</h3>
-
-			<form class="wrap-form-reservation size22 m-l-r-auto">
-				<div class="row">
-					<div class="col-md-4">
-						<!-- Name -->
-						<span class="txt9">
-							Name
-						</span>
-
-						<div class="wrap-inputname size12 bo2 bo-rad-10 m-t-3 m-b-23">
-							<input class="bo-rad-10 sizefull txt10 p-l-20" type="text" name="name" placeholder="Name">
-						</div>
-					</div>
-
-					<div class="col-md-4">
-						<!-- Email -->
-						<span class="txt9">
-							Email
-						</span>
-
-						<div class="wrap-inputemail size12 bo2 bo-rad-10 m-t-3 m-b-23">
-							<input class="bo-rad-10 sizefull txt10 p-l-20" type="text" name="email" placeholder="Email">
-						</div>
-					</div>
-
-					<div class="col-md-4">
-						<!-- Phone -->
-						<span class="txt9">
-							Phone
-						</span>
-
-						<div class="wrap-inputphone size12 bo2 bo-rad-10 m-t-3 m-b-23">
-							<input class="bo-rad-10 sizefull txt10 p-l-20" type="text" name="phone" placeholder="Phone">
-						</div>
-					</div>
-
-					<div class="col-12">
-						<!-- Message -->
-						<span class="txt9">
-							Message
-						</span>
-						<textarea class="bo-rad-10 size35 bo2 txt10 p-l-20 p-t-15 m-b-10 m-t-3" name="message" placeholder="Message"></textarea>
-					</div>
-				</div>
-
-				<div class="wrap-btn-booking flex-c-m m-t-13">
-					<!-- Button3 -->
-					<button type="submit" class="btn3 flex-c-m size36 txt11 trans-0-4">
-						Submit
-					</button>
-				</div>
-			</form>
-
-			<div class="row p-t-135">
-				<div class="col-sm-8 col-md-4 col-lg-4 m-l-r-auto p-t-30">
-					<div class="dis-flex m-l-23">
-						<div class="p-r-40 p-t-6">
-							<img src="images/icons/map-icon.png" alt="IMG-ICON">
-						</div>
-
-						<div class="flex-col-l">
-							<span class="txt5 p-b-10">
-								Location
-							</span>
-
-							<span class="txt23 size38">
-								8th floor, 379 Hudson St, New York, NY 10018
-							</span>
-						</div>
-					</div>
-				</div>
-
-				<div class="col-sm-8 col-md-3 col-lg-4 m-l-r-auto p-t-30">
-					<div class="dis-flex m-l-23">
-						<div class="p-r-40 p-t-6">
-							<img src="images/icons/phone-icon.png" alt="IMG-ICON">
-						</div>
-
-
-						<div class="flex-col-l">
-							<span class="txt5 p-b-10">
-								Call Us
-							</span>
-
-							<span class="txt23 size38">
-								(+1) 96 716 6879
-							</span>
-						</div>
-					</div>
-				</div>
-
-				<div class="col-sm-8 col-md-5 col-lg-4 m-l-r-auto p-t-30">
-					<div class="dis-flex m-l-23">
-						<div class="p-r-40 p-t-6">
-							<img src="images/icons/clock-icon.png" alt="IMG-ICON">
-						</div>
-
-
-						<div class="flex-col-l">
-							<span class="txt5 p-b-10">
-								Opening Hours
-							</span>
-
-							<span class="txt23 size38">
-								09:30 AM – 11:00 PM <br/>Every Day
-							</span>
-						</div>
-					</div>
-				</div>
-			</div>
+		<div class="pagination flex-c-m flex-w p-l-15 p-r-15 m-t-24 m-b-50">
+			<a href="#" class="item-pagination flex-c-m trans-0-4 active-pagination">1</a>
+			<a href="#" class="item-pagination flex-c-m trans-0-4">2</a>
+			<a href="#" class="item-pagination flex-c-m trans-0-4">3</a>
 		</div>
-	</section>
+	</div>
+
+
+	<!-- Sign up -->
+	<div class="section-signup bg1-pattern p-t-85 p-b-85">
+		<form class="flex-c-m flex-w flex-col-c-m-lg p-l-5 p-r-5">
+			<span class="txt5 m-10">
+				Specials Sign up
+			</span>
+
+			<div class="wrap-input-signup size17 bo2 bo-rad-10 bgwhite pos-relative txt10 m-10">
+				<input class="bo-rad-10 sizefull txt10 p-l-20" type="text" name="email-address" placeholder="Email Adrress">
+				<i class="fa fa-envelope ab-r-m m-r-18" aria-hidden="true"></i>
+			</div>
+
+			<!-- Button3 -->
+			<button type="submit" class="btn3 flex-c-m size18 txt11 trans-0-4 m-10">
+				Sign-up
+			</button>
+		</form>
+	</div>
 
 
 	<!-- Footer -->
@@ -496,9 +504,6 @@
 		</span>
 	</div>
 
-	<!-- Container Selection1 -->
-	<div id="dropDownSelect1"></div>
-
 
 
 <!--===============================================================================================-->
@@ -526,8 +531,7 @@
 <!--===============================================================================================-->
 	<script type="text/javascript" src="vendor/lightbox2/js/lightbox.min.js"></script>
 <!--===============================================================================================-->
-	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAKFWBqlKAGCeS1rMVoaNlwyayu0e0YRes"></script>
-	<script src="js/map-custom.js"></script>
+	<script type="text/javascript" src="vendor/isotope/isotope.pkgd.min.js"></script>
 <!--===============================================================================================-->
 	<script src="js/main.js"></script>
 
