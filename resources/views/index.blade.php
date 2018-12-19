@@ -5,30 +5,30 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 <!--===============================================================================================-->
-	<link rel="icon" type="image/png" href="{{URL::asset('images/icons/favicon.png')}}"/>
+	<link rel="icon" type="image/png" href="{{asset('images/icons/favicon.png')}}"/>
 <!--===============================================================================================-->
-	<link rel="stylesheet" type="text/css" href="{{URL::asset('vendor/bootstrap/css/bootstrap.min.css')}}">
+	<link rel="stylesheet" type="text/css" href="{{asset('vendor/bootstrap/css/bootstrap.min.css')}}">
 <!--===============================================================================================-->
-	<link rel="stylesheet" type="text/css" href="{{URL::asset('fonts/font-awesome-4.7.0/css/font-awesome.min.css')}}">
+	<link rel="stylesheet" type="text/css" href="{{asset('fonts/font-awesome-4.7.0/css/font-awesome.min.css')}}">
 <!--===============================================================================================-->
-	<link rel="stylesheet" type="text/css" href="{{URL::asset('fonts/themify/themify-icons.css')}}">
+	<link rel="stylesheet" type="text/css" href="{{asset('fonts/themify/themify-icons.css')}}">
 <!--===============================================================================================-->
-	<link rel="stylesheet" type="text/css" href="{{URL::asset('vendor/animate/animate.css')}}">
+	<link rel="stylesheet" type="text/css" href="{{asset('vendor/animate/animate.css')}}">
 <!--===============================================================================================-->
-	<link rel="stylesheet" type="text/css" href="{{URL::asset('vendor/css-hamburgers/hamburgers.min.css')}}">
+	<link rel="stylesheet" type="text/css" href="{{asset('vendor/css-hamburgers/hamburgers.min.css')}}">
 <!--===============================================================================================-->
-	<link rel="stylesheet" type="text/css" href="{{URL::asset('vendor/animsition/css/animsition.min.css')}}">
+	<link rel="stylesheet" type="text/css" href="{{asset('vendor/animsition/css/animsition.min.css')}}">
 <!--===============================================================================================-->
-	<link rel="stylesheet" type="text/css" href="{{URL::asset('vendor/select2/select2.min.css')}}">
+	<link rel="stylesheet" type="text/css" href="{{asset('vendor/select2/select2.min.css')}}">
 <!--===============================================================================================-->
-	<link rel="stylesheet" type="text/css" href="{{URL::asset('vendor/daterangepicker/daterangepicker.css')}}">
+	<link rel="stylesheet" type="text/css" href="{{asset('vendor/daterangepicker/daterangepicker.css')}}">
 <!--===============================================================================================-->
-	<link rel="stylesheet" type="text/css" href="{{URL::asset('vendor/slick/slick.css')}}">
+	<link rel="stylesheet" type="text/css" href="{{asset('vendor/slick/slick.css')}}">
 <!--===============================================================================================-->
-	<link rel="stylesheet" type="text/css" href="{{URL::asset('vendor/lightbox2/css/lightbox.min.css')}}">
+	<link rel="stylesheet" type="text/css" href="{{asset('vendor/lightbox2/css/lightbox.min.css')}}">
 <!--===============================================================================================-->
-	<link rel="stylesheet" type="text/css" href="{{URL::asset('css/util.css')}}">
-	<link rel="stylesheet" type="text/css" href="{{URL::asset('css/main.css')}}">
+	<link rel="stylesheet" type="text/css" href="{{asset('css/util.css')}}">
+	<link rel="stylesheet" type="text/css" href="{{asset('css/main.css')}}">
 <!--===============================================================================================-->
 </head>
 <body class="animsition">
@@ -42,7 +42,7 @@
 					<!-- Logo -->
 					<div class="logo">
 						<a href="/">
-							<img src="{{URL::asset('images/icons/logo.png')}}" alt="IMG-LOGO" data-logofixed="{{URL::asset('images/icons/logo2.png')}}">
+							<img src="{{asset('images/icons/logo.png')}}" alt="IMG-LOGO" data-logofixed="{{asset('images/icons/logo2.png')}}">
 						</a>
 					</div>
 
@@ -142,40 +142,40 @@
 
 			<!-- Gallery -->
 			<div class="wrap-gallery-sidebar flex-w">
-				<a class="item-gallery-sidebar wrap-pic-w" href="{{URL::asset('images/photo-gallery-01.jpg')}}" data-lightbox="gallery-footer">
-					<img src="{{URL::asset('images/photo-gallery-thumb-01.jpg')}}" alt="GALLERY">
+				<a class="item-gallery-sidebar wrap-pic-w" href="{{asset('images/photo-gallery-01.jpg')}}" data-lightbox="gallery-footer">
+					<img srasset('images/photo-gallery-thumb-01.jpg')}}" alt="GALLERY">
 				</a>
 
-				<a class="item-gallery-sidebar wrap-pic-w" href="{{URL::asset('images/photo-gallery-02.jpg')}}" data-lightbox="gallery-footer">
-					<img src="{{URL::asset('images/photo-gallery-thumb-02.jpg')}}" alt="GALLERY">
+				<a class="item-gallery-sidebar wrap-pic-w" href="{{asset('images/photo-gallery-02.jpg')}}" data-lightbox="gallery-footer">
+					<img src="{{asset('images/photo-gallery-thumb-02.jpg')}}" alt="GALLERY">
 				</a>
 
-				<a class="item-gallery-sidebar wrap-pic-w" href="{{URL::asset('images/photo-gallery-03.jpg')}}" data-lightbox="gallery-footer">
-					<img src="{{URL::asset('images/photo-gallery-thumb-03.jpg')}}" alt="GALLERY">
+				<a class="item-gallery-sidebar wrap-pic-w" href="{{asset('images/photo-gallery-03.jpg')}}" data-lightbox="gallery-footer">
+					<img src="{{asset('images/photo-gallery-thumb-03.jpg')}}" alt="GALLERY">
 				</a>
 
-				<a class="item-gallery-sidebar wrap-pic-w" href="{{URL::asset('images/photo-gallery-05.jpg')}}" data-lightbox="gallery-footer">
-					<img src="{{URL::asset('images/photo-gallery-thumb-05.jpg')}}" alt="GALLERY">
+				<a class="item-gallery-sidebar wrap-pic-w" href="{{asset('images/photo-gallery-05.jpg')}}" data-lightbox="gallery-footer">
+					<img src="{{asset('images/photo-gallery-thumb-05.jpg')}}" alt="GALLERY">
 				</a>
 
-				<a class="item-gallery-sidebar wrap-pic-w" href="{{URL::asset('images/photo-gallery-06.jpg')}}" data-lightbox="gallery-footer">
-					<img src="{{URL::asset('images/photo-gallery-thumb-06.jpg')}}" alt="GALLERY">
+				<a class="item-gallery-sidebar wrap-pic-w" href="{{asset('images/photo-gallery-06.jpg')}}" data-lightbox="gallery-footer">
+					<img src="{{asset('images/photo-gallery-thumb-06.jpg')}}" alt="GALLERY">
 				</a>
 
-				<a class="item-gallery-sidebar wrap-pic-w" href="{{URL::asset('images/photo-gallery-07.jpg')}}" data-lightbox="gallery-footer">
-					<img src="{{URL::asset('images/photo-gallery-thumb-07.jpg')}}" alt="GALLERY">
+				<a class="item-gallery-sidebar wrap-pic-w" href="{{asset('images/photo-gallery-07.jpg')}}" data-lightbox="gallery-footer">
+					<img src="{{asset('images/photo-gallery-thumb-07.jpg')}}" alt="GALLERY">
 				</a>
 
-				<a class="item-gallery-sidebar wrap-pic-w" href="{{URL::asset('images/photo-gallery-09.jpg')}}" data-lightbox="gallery-footer">
-					<img src="{{URL::asset('images/photo-gallery-thumb-09.jpg')}}" alt="GALLERY">
+				<a class="item-gallery-sidebar wrap-pic-w" href="{{asset('images/photo-gallery-09.jpg')}}" data-lightbox="gallery-footer">
+					<img src="{{asset('images/photo-gallery-thumb-09.jpg')}}" alt="GALLERY">
 				</a>
 
-				<a class="item-gallery-sidebar wrap-pic-w" href="{{URL::asset('images/photo-gallery-10.jpg')}}" data-lightbox="gallery-footer">
-					<img src="{{URL::asset('images/photo-gallery-thumb-10.jpg')}}" alt="GALLERY">
+				<a class="item-gallery-sidebar wrap-pic-w" href="{{asset('images/photo-gallery-10.jpg')}}" data-lightbox="gallery-footer">
+					<img src="{{asset('images/photo-gallery-thumb-10.jpg')}}" alt="GALLERY">
 				</a>
 
-				<a class="item-gallery-sidebar wrap-pic-w" href="{{URL::asset('images/photo-gallery-11.jpg')}}" data-lightbox="gallery-footer">
-					<img src="{{URL::asset('images/photo-gallery-thumb-11.jpg')}}" alt="GALLERY">
+				<a class="item-gallery-sidebar wrap-pic-w" href="{{asset('images/photo-gallery-11.jpg')}}" data-lightbox="gallery-footer">
+					<img src="{{asset('images/photo-gallery-thumb-11.jpg')}}" alt="GALLERY">
 				</a>
 			</div>
 		</div>
