@@ -6,6 +6,10 @@ use Illuminate\Http\Request;
 
 class PatoController extends Controller
 {
+    public function index0()
+    {
+        return view('index');
+    }
     public function index1()
     {
         return view('resto.about');
