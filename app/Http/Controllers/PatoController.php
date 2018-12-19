@@ -8,7 +8,7 @@ class PatoController extends Controller
 {
     public function index0()
     {
-        return view('index');
+        return view('welcome');
     }
     public function index1()
     {
