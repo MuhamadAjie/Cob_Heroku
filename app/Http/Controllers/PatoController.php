@@ -8,7 +8,7 @@ class PatoController extends Controller
 {
     public function index0()
     {
-        return view('welcome');
+        return view('index');
     }
     public function index1()
     {
@@ -32,7 +32,7 @@ class PatoController extends Controller
     }
     public function index6()
     {
-        return view('index');
+        return view('resto.menu');
     }
     public function index7()
     {
