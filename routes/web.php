@@ -10,7 +10,7 @@
 | contains the "web" middleware group. Now create something great!
 |
 */
-Route::get("/index", "PatoController@index0");
+Route::get("/", "PatoController@index0");
 Route::get("/about", "PatoController@index1");
 Route::get("/blog-detail", "PatoController@index2");
 Route::get("/blog", "PatoController@index3");
