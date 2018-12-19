@@ -53,7 +53,7 @@
 						<nav class="menu">
 							<ul class="main_menu">
 								<li>
-									<a href="/">Home</a>
+									<a href="/index">Home</a>
 								</li>
 
 								<li>
