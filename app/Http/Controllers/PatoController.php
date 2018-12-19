@@ -32,7 +32,7 @@ class PatoController extends Controller
     }
     public function index6()
     {
-        return view('resto.index');
+        return view('index');
     }
     public function index7()
     {
