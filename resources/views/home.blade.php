@@ -5,8 +5,6 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 <!--===============================================================================================-->
-	<link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet">
-<!--===============================================================================================-->
 	<link rel="icon" type="image/png" href="images/icons/favicon.png"/>
 <!--===============================================================================================-->
 	<link rel="stylesheet" type="text/css" href="vendor/bootstrap/css/bootstrap.min.css">
@@ -1065,7 +1063,7 @@
 								Duis elementum, risus sit amet lobortis nunc justo condimentum ligula, vitae feugiat
 							</p>
 
-							<a href="blog-detail.html" class="txt4">
+							<a href="/blog-detail" class="txt4">
 								Continue Reading
 								<i class="fa fa-long-arrow-right m-l-10" aria-hidden="true"></i>
 							</a>
@@ -1224,8 +1222,8 @@
 
 					<!-- Gallery footer -->
 					<div class="wrap-gallery-footer flex-w">
-						<a class="item-gallery-footer wrap-picimages/photo-gallery-01.jpg')}}" data-lightbox="gallery-footer">
-							<img src="images/photo-gallery-thumb-01.jpg')}}" alt="GALLERY">
+						<a class="item-gallery-footer wrap-pic-w" href="images/photo-gallery-01.jpg" data-lightbox="gallery-footer">
+							<img src="images/photo-gallery-thumb-01.jpg" alt="GALLERY">
 						</a>
 
 						<a class="item-gallery-footer wrap-pic-w" href="images/photo-gallery-02.jpg" data-lightbox="gallery-footer">
@@ -1323,7 +1321,7 @@
 
 
 <!--===============================================================================================-->
-	<script type="text/javascrvendor/jquery/jquery-3.2.1.min.js"></script>
+	<script type="text/javascript" src="vendor/jquery/jquery-3.2.1.min.js"></script>
 <!--===============================================================================================-->
 	<script type="text/javascript" src="vendor/animsition/js/animsition.min.js"></script>
 <!--===============================================================================================-->
