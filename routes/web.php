@@ -15,6 +15,6 @@ Route::get("/about", "PatoController@index1");
 Route::get("/blog-detail", "PatoController@index2");
 Route::get("/blog", "PatoController@index3");
 Route::get("/contact", "PatoController@index4");
-Route::get("gallery", "PatoController@index5");
+Route::get("/gallery", "PatoController@index5");
 Route::get("/menu", "PatoController@index6");
 Route::get("/reservation", "PatoController@index7");
