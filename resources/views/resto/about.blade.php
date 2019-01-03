@@ -220,7 +220,7 @@
 	<!-- Our Story -->
 	<section class="bg2-pattern p-t-116 p-b-110 t-center p-l-15 p-r-15">
 		<span class="tit2 t-center">
-			Italian Restaurant
+			Warteg Onlen (Warlen)
 		</span>
 
 		<h3 class="tit3 t-center m-b-35 m-t-5">
@@ -228,7 +228,7 @@
 		</h3>
 
 		<p class="t-center size32 m-l-r-auto">
-			Fusce at risus eget mi auctor pulvinar. Suspendisse maximus venenatis pretium. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam purus purus, lacinia a scelerisque in, luctus vel felis. Donec odio diam, dignissim a efficitur at, efficitur et est. Pellentesque semper est ut pulvinar ullamcorper. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nulla et leo accumsan, egestas velit ac, fringilla tortor. Sed varius justo sed luctus mattis.
+			Warteg online ini kami buat, untuk memenuhi salah satu tugas UAS matakuliah pengembangan aplikasi web, proses pembuatannya menggunakan framework laravel dan juga menggunakan continuous integration Travis, database yang kami gunakan adalah mysql dengan beberapa penyesuaian pada bagian environmentnya. Tujuan utama kami adalah untuk memudahkan konsumen dalam mencari warteg atau penyedia masakan cepat saji di sekitar tempat mereka berada.
 		</p>
 	</section>
 
@@ -269,7 +269,7 @@
 						</h3>
 
 						<p class="t-center m-b-22 size3 m-l-r-auto">
-							Donec quis lorem nulla. Nunc eu odio mi. Morbi nec lobortis est. Sed fringilla, nunc sed imperdiet lacinia, nisl ante egestas mi, ac facilisis ligula sem id neque.
+							Resep yang digunakan para koki warteg merupakan bahan turun temurun, sehingga tetap menjaga citarasa yang ada.
 						</p>
 					</div>
 				</div>
@@ -293,15 +293,15 @@
 				<div class="col-md-6 p-t-45 p-b-30">
 					<div class="wrap-text-romantic t-center">
 						<span class="tit2 t-center">
-							Romantic
+							Fast
 						</span>
 
 						<h3 class="tit3 t-center m-b-35 m-t-5">
-							Restaurant
+							Food
 						</h3>
 
 						<p class="t-center m-b-22 size3 m-l-r-auto">
-							Fusce iaculis, quam quis volutpat cursus, tellus quam varius eros, in euismod lorem nisl in ante. Maecenas imperdiet vulputate dui sit amet vestibulum. Nulla quis suscipit nisl.
+							Kemudahan bagi anda apabila ingin mencari makanan cepat saji karena kami menyediakannya disini.
 						</p>
 					</div>
 				</div>
@@ -324,7 +324,7 @@
 			</span>
 
 			<h3 class="tit5 t-center m-b-50 m-t-5">
-				Chef
+				Team
 			</h3>
 
 			<div class="row">
@@ -337,15 +337,15 @@
 
 						<div class="text-blo5 size34 t-center bo-rad-10 bo7 p-t-90 p-l-35 p-r-35 p-b-30">
 							<a href="#" class="txt34 dis-block p-b-6">
-								Peter Hart
+								Muhamad Ajie Darmawan
 							</a>
 
 							<span class="dis-block t-center txt35 p-b-25">
-								Chef
+								Scrum Master
 							</span>
 
 							<p class="t-center">
-								Donec porta eleifend mauris ut effici-tur. Quisque non velit vestibulum, lob-ortis mi eget, rhoncus nunc
+								“ Jangan harap orang lain dapat merubah nasibmu ”
 							</p>
 						</div>
 					</div>
@@ -360,15 +360,15 @@
 
 						<div class="text-blo5 size34 t-center bo-rad-10 bo7 p-t-90 p-l-35 p-r-35 p-b-30">
 							<a href="#" class="txt34 dis-block p-b-6">
-								Joyce Bowman
+								Fakhri Muharram
 							</a>
 
 							<span class="dis-block t-center txt35 p-b-25">
-								Chef
+								Back-End
 							</span>
 
 							<p class="t-center">
-								Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ultricies felis a sem tempus tempus.
+								“ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ultricies felis a sem tempus tempus. ”
 							</p>
 						</div>
 					</div>
@@ -378,20 +378,20 @@
 					<!-- -Block5 -->
 					<div class="blo5 pos-relative p-t-60">
 						<div class="pic-blo5 size14 bo4 wrap-cir-pic hov-img-zoom ab-c-t">
-							<a href="#"><img src="images/avatar-05.jpg" alt="IGM-AVATAR"></a>
+							<a href="#"><img src="images/avatar-06.jpg" alt="IGM-AVATAR"></a>
 						</div>
 
 						<div class="text-blo5 size34 t-center bo-rad-10 bo7 p-t-90 p-l-35 p-r-35 p-b-30">
 							<a href="#" class="txt34 dis-block p-b-6">
-								Peter Hart
+								Sophia Putri Nurmala
 							</a>
 
 							<span class="dis-block t-center txt35 p-b-25">
-								Chef
+								Front-End
 							</span>
 
 							<p class="t-center">
-								Phasellus aliquam libero a nisi varius, vitae placerat sem aliquet. Ut at velit nec ipsum iaculis posuere quis in sapien
+								“ Phasellus aliquam libero a nisi varius, vitae placerat sem aliquet. Ut at velit nec ipsum iaculis posuere quis in sapien ”
 							</p>
 						</div>
 					</div>

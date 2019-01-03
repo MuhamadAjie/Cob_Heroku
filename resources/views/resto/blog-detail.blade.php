@@ -61,10 +61,6 @@
 								</li>
 
 								<li>
-									<a href="/reservation">Reservation</a>
-								</li>
-
-								<li>
 									<a href="/gallery">Gallery</a>
 								</li>
 
@@ -125,13 +121,6 @@
 
 			<li class="t-center m-b-33">
 				<a href="/contact" class="txt19">Contact</a>
-			</li>
-
-			<li class="t-center">
-				<!-- Button3 -->
-				<a href="/reservation" class="btn3 flex-c-m size13 txt11 trans-0-4 m-l-r-auto">
-					Reservation
-				</a>
 			</li>
 		</ul>
 
@@ -265,7 +254,7 @@
 								</div>
 
 								<p>
-									Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus eget mi sem. Nulla facilisi. Sed ultricies eros a nibh tempus, in sodales mi vestibulum. Nullam quis dui ac nisl ultrices euismod et sit amet urna. Morbi semper sapien quis ex tempor, sit amet scelerisque eros rhoncus. Cras scelerisque auctor gravida. Nunc fermentum luctus rhoncus. Nulla vulputate fermentum convallis. In quis pellentesque tortor. Cras metus nibh, gravida vitae ante vel, finibus semper tellus. Nulla vel tincidunt magna. Morbi tempor velit lectus, eu commodo quam volutpat vitae.
+									Ayo nikmati beragam kemudahan dalam mencari makanan cepat saji, disini kami menyediakan warteg sebagai pilihan alternatif guna memenuhi kebutuhan anda sehari-hari, pesan sekarang juga untuk menikmati promo dari kami.
 								</p>
 							</div>
 						</div>
@@ -387,7 +376,7 @@
 										</a>
 
 										<span class="txt14">
-											July 2, 2017
+											July 2, 2018
 										</span>
 									</div>
 								</li>
@@ -405,7 +394,7 @@
 										</a>
 
 										<span class="txt14">
-											May 28, 2017
+											May 28, 2018
 										</span>
 									</div>
 								</li>
@@ -423,7 +412,7 @@
 										</a>
 
 										<span class="txt14">
-											May 25, 2017
+											May 25, 2018
 										</span>
 									</div>
 								</li>
@@ -441,7 +430,7 @@
 										</a>
 
 										<span class="txt14">
-											May 2, 2017
+											May 2, 2018
 										</span>
 									</div>
 								</li>
@@ -557,17 +546,17 @@
 					<ul class="m-b-70">
 						<li class="txt14 m-b-14">
 							<i class="fa fa-map-marker fs-16 dis-inline-block size19" aria-hidden="true"></i>
-							8th floor, 379 Hudson St, New York, NY 10018
+							Jl. A.H. Nasution No.105, Cipadung, Cibiru, Bandung, Jawa Barat 40614
 						</li>
 
 						<li class="txt14 m-b-14">
 							<i class="fa fa-phone fs-16 dis-inline-block size19" aria-hidden="true"></i>
-							(+1) 96 716 6879
+							(+62) 89 522 767 180
 						</li>
 
 						<li class="txt14 m-b-14">
 							<i class="fa fa-envelope fs-13 dis-inline-block size19" aria-hidden="true"></i>
-							contact@site.com
+							warlen@site.com
 						</li>
 					</ul>
 
@@ -578,7 +567,7 @@
 
 					<ul>
 						<li class="txt14">
-							09:30 AM – 11:00 PM
+							06:00 AM – 21:00 PM
 						</li>
 
 						<li class="txt14">
@@ -598,18 +587,18 @@
 							<i class="fa fa-twitter" aria-hidden="true"></i>
 						</span>
 						<a href="#" class="txt15">
-							@colorlib
+							@warlen
 						</a>
 
 						<p class="txt14 m-b-18">
-							Activello is a good option. It has a slider built into that displays the featured image in the slider.
+							Sedia makanan cepat saji, murah meriah dan mudah pemesanannya.
 							<a href="#" class="txt15">
 								https://buff.ly/2zaSfAQ
 							</a>
 						</p>
 
 						<span class="txt16">
-							21 Dec 2017
+							21 Dec 2018
 						</span>
 					</div>
 
@@ -618,18 +607,18 @@
 							<i class="fa fa-twitter" aria-hidden="true"></i>
 						</span>
 						<a href="#" class="txt15">
-							@colorlib
+							@warlen
 						</a>
 
 						<p class="txt14 m-b-18">
-							Activello is a good option. It has a slider built into that displays
+							Kenyamanan anda adalah prioritas kami.
 							<a href="#" class="txt15">
 								https://buff.ly/2zaSfAQ
 							</a>
 						</p>
 
 						<span class="txt16">
-							21 Dec 2017
+							21 Dec 2018
 						</span>
 					</div>
 				</div>
@@ -705,7 +694,7 @@
 					</div>
 
 					<div class="txt17 p-r-20 p-t-5 p-b-5">
-						Copyright &copy; 2018 All rights reserved  |  This template is made with <i class="fa fa-heart"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+						Copyright &copy; 2018 All rights reserved  |  This template is made with <i class="fa fa-heart"></i> by <a href="https://colorlib.com" target="_blank">Warlen</a>
 					</div>
 				</div>
 			</div>

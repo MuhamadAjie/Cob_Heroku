@@ -21,8 +21,8 @@
 
                         <!-- @csrf -->
                         <center>
-                            <h3>Login dulu coy</h3>
-                            <img src="{{asset('/img/operator.png')}}" Avatar" class="avatar">
+                            <h3>Silahkan Login</h3>
+                            <img src="{{asset('/img/operator.png')}}" class="avatar">
                         </center>
                         
                         <input type="hidden" name="_token" value="{{ csrf_token() }}">

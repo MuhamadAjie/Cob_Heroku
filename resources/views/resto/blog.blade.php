@@ -299,17 +299,17 @@
 					<ul class="m-b-70">
 						<li class="txt14 m-b-14">
 							<i class="fa fa-map-marker fs-16 dis-inline-block size19" aria-hidden="true"></i>
-							8th floor, 379 Hudson St, New York, NY 10018
+							Jl. A.H. Nasution No.105, Cipadung, Cibiru, Bandung, Jawa Barat 40614
 						</li>
 
 						<li class="txt14 m-b-14">
 							<i class="fa fa-phone fs-16 dis-inline-block size19" aria-hidden="true"></i>
-							(+1) 96 716 6879
+							(+62) 89 522 767 180
 						</li>
 
 						<li class="txt14 m-b-14">
 							<i class="fa fa-envelope fs-13 dis-inline-block size19" aria-hidden="true"></i>
-							contact@site.com
+							warlen@site.com
 						</li>
 					</ul>
 
@@ -320,7 +320,7 @@
 
 					<ul>
 						<li class="txt14">
-							09:30 AM – 11:00 PM
+							06:00 AM – 21:00 PM
 						</li>
 
 						<li class="txt14">
@@ -340,18 +340,18 @@
 							<i class="fa fa-twitter" aria-hidden="true"></i>
 						</span>
 						<a href="#" class="txt15">
-							@colorlib
+							@warlen
 						</a>
 
 						<p class="txt14 m-b-18">
-							Activello is a good option. It has a slider built into that displays the featured image in the slider.
+							Sedia makanan cepat saji, murah meriah dan mudah pemesanannya.
 							<a href="#" class="txt15">
 								https://buff.ly/2zaSfAQ
 							</a>
 						</p>
 
 						<span class="txt16">
-							21 Dec 2017
+							21 Dec 2018
 						</span>
 					</div>
 
@@ -360,18 +360,18 @@
 							<i class="fa fa-twitter" aria-hidden="true"></i>
 						</span>
 						<a href="#" class="txt15">
-							@colorlib
+							@warlen
 						</a>
 
 						<p class="txt14 m-b-18">
-							Activello is a good option. It has a slider built into that displays
+							Kenyamanan anda adalah prioritas kami.
 							<a href="#" class="txt15">
 								https://buff.ly/2zaSfAQ
 							</a>
 						</p>
 
 						<span class="txt16">
-							21 Dec 2017
+							21 Dec 2018
 						</span>
 					</div>
 				</div>
@@ -447,7 +447,7 @@
 					</div>
 
 					<div class="txt17 p-r-20 p-t-5 p-b-5">
-						Copyright &copy; 2018 All rights reserved  |  This template is made with <i class="fa fa-heart"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+						Copyright &copy; 2018 All rights reserved  |  This template is made with <i class="fa fa-heart"></i> by <a href="https://colorlib.com" target="_blank">Warlen</a>
 					</div>
 				</div>
 			</div>

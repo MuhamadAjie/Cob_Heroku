@@ -212,7 +212,7 @@
 	<!-- Title Page -->
 	<section class="bg-title-page flex-c-m p-t-160 p-b-80 p-l-15 p-r-15" style="background-image: url(images/bg-title-page-01.jpg);">
 		<h2 class="tit6 t-center">
-			Pato Menu
+			Warlen Menu
 		</h2>
 	</section>
 
@@ -231,76 +231,60 @@
 						<div class="item-mainmenu m-b-36">
 							<div class="flex-w flex-b m-b-3">
 								<a href="#" class="name-item-mainmenu txt21">
-									Pine nut sbrisalona
+									Nasi Putih
 								</a>
 
 								<div class="line-item-mainmenu bg3-pattern"></div>
 
 								<div class="price-item-mainmenu txt22">
-									$29.79
+									Rp. 4.000
 								</div>
 							</div>
-
-							<span class="info-item-mainmenu txt23">
-								Sed fermentum eros vitae eros
-							</span>
 						</div>
 
 						<!-- Item mainmenu -->
 						<div class="item-mainmenu m-b-36">
 							<div class="flex-w flex-b m-b-3">
 								<a href="#" class="name-item-mainmenu txt21">
-									Aenean eu
+									Ayam Goreng
 								</a>
 
 								<div class="line-item-mainmenu bg3-pattern"></div>
 
 								<div class="price-item-mainmenu txt22">
-									$19.35
+									Rp. 9.000
 								</div>
 							</div>
-
-							<span class="info-item-mainmenu txt23">
-								Feugiat maximus neque pharetra
-							</span>
 						</div>
 
 						<!-- Item mainmenu -->
 						<div class="item-mainmenu m-b-36">
 							<div class="flex-w flex-b m-b-3">
 								<a href="#" class="name-item-mainmenu txt21">
-									Sed feugiat
+									Ikan Kembung
 								</a>
 
 								<div class="line-item-mainmenu bg3-pattern"></div>
 
 								<div class="price-item-mainmenu txt22">
-									$12.19
+									Rp. 6.000
 								</div>
 							</div>
-
-							<span class="info-item-mainmenu txt23">
-								Proin lacinia nisl ut ultricies posuere nulla
-							</span>
 						</div>
 
 						<!-- Item mainmenu -->
 						<div class="item-mainmenu m-b-36">
 							<div class="flex-w flex-b m-b-3">
 								<a href="#" class="name-item-mainmenu txt21">
-									Consectetur
+									Telur Asin
 								</a>
 
 								<div class="line-item-mainmenu bg3-pattern"></div>
 
 								<div class="price-item-mainmenu txt22">
-									$21.89
+									Rp. 4.000
 								</div>
 							</div>
-
-							<span class="info-item-mainmenu txt23">
-								Etiam cursus facilisis tortor
-							</span>
 						</div>
 					</div>
 
@@ -313,76 +297,60 @@
 						<div class="item-mainmenu m-b-36">
 							<div class="flex-w flex-b m-b-3">
 								<a href="#" class="name-item-mainmenu txt21">
-									Vivamus pretium
+									Teh Manis
 								</a>
 
 								<div class="line-item-mainmenu bg3-pattern"></div>
 
 								<div class="price-item-mainmenu txt22">
-									$29.79
+									Rp. 3.000
 								</div>
 							</div>
-
-							<span class="info-item-mainmenu txt23">
-								Sed fermentum eros vitae eros
-							</span>
 						</div>
 
 						<!-- Item mainmenu -->
 						<div class="item-mainmenu m-b-36">
 							<div class="flex-w flex-b m-b-3">
 								<a href="#" class="name-item-mainmenu txt21">
-									Duis pharetra ligula
+									Kopi
 								</a>
 
 								<div class="line-item-mainmenu bg3-pattern"></div>
 
 								<div class="price-item-mainmenu txt22">
-									$19.35
+									Rp. 3.000
 								</div>
 							</div>
-
-							<span class="info-item-mainmenu txt23">
-								Feugiat maximus neque pharetra
-							</span>
 						</div>
 
 						<!-- Item mainmenu -->
 						<div class="item-mainmenu m-b-36">
 							<div class="flex-w flex-b m-b-3">
 								<a href="#" class="name-item-mainmenu txt21">
-									In eu dolor
+									Susu
 								</a>
 
 								<div class="line-item-mainmenu bg3-pattern"></div>
 
 								<div class="price-item-mainmenu txt22">
-									$53.34
+									Rp. 3.000
 								</div>
 							</div>
-
-							<span class="info-item-mainmenu txt23">
-								Proin lacinia nisl ut ultricies posuere nulla
-							</span>
 						</div>
 
 						<!-- Item mainmenu -->
 						<div class="item-mainmenu m-b-36">
 							<div class="flex-w flex-b m-b-3">
 								<a href="#" class="name-item-mainmenu txt21">
-									Feugiat maximus
+									Air Mineral
 								</a>
 
 								<div class="line-item-mainmenu bg3-pattern"></div>
 
 								<div class="price-item-mainmenu txt22">
-									$62.45
+									Rp. 3.000
 								</div>
 							</div>
-
-							<span class="info-item-mainmenu txt23">
-								Sed fermentum eros vitae eros
-							</span>
 						</div>
 					</div>
 				</div>
@@ -397,133 +365,105 @@
 						<div class="item-mainmenu m-b-36">
 							<div class="flex-w flex-b m-b-3">
 								<a href="#" class="name-item-mainmenu txt21">
-									Duis sed aliquet
+									Jengkol
 								</a>
 
 								<div class="line-item-mainmenu bg3-pattern"></div>
 
 								<div class="price-item-mainmenu txt22">
-									$31.18
+									Rp. 4.000
 								</div>
 							</div>
-
-							<span class="info-item-mainmenu txt23">
-								Proin lacinia nisl ut ultricies posuere nulla
-							</span>
 						</div>
 
 						<!-- Item mainmenu -->
 						<div class="item-mainmenu m-b-36">
 							<div class="flex-w flex-b m-b-3">
 								<a href="#" class="name-item-mainmenu txt21">
-									Suspendisse
+									Oreg Tempe
 								</a>
 
 								<div class="line-item-mainmenu bg3-pattern"></div>
 
 								<div class="price-item-mainmenu txt22">
-									$70.25
+									Rp. 3.000
 								</div>
 							</div>
-
-							<span class="info-item-mainmenu txt23">
-								Feugiat maximus neque pharetra
-							</span>
 						</div>
 
 						<!-- Item mainmenu -->
 						<div class="item-mainmenu m-b-36">
 							<div class="flex-w flex-b m-b-3">
 								<a href="#" class="name-item-mainmenu txt21">
-									Scelerisque sed
+									Sayur Tahu
 								</a>
 
 								<div class="line-item-mainmenu bg3-pattern"></div>
 
 								<div class="price-item-mainmenu txt22">
-									$36.19
+									Rp. 2.000
 								</div>
 							</div>
-
-							<span class="info-item-mainmenu txt23">
-								Etiam cursus facilisis tortor
-							</span>
 						</div>
 
 						<!-- Item mainmenu -->
 						<div class="item-mainmenu m-b-36">
 							<div class="flex-w flex-b m-b-3">
 								<a href="#" class="name-item-mainmenu txt21">
-									Mollis nulla
+									Telor Dadar
 								</a>
 
 								<div class="line-item-mainmenu bg3-pattern"></div>
 
 								<div class="price-item-mainmenu txt22">
-									$19.50
+									Rp. 4.000
 								</div>
 							</div>
-
-							<span class="info-item-mainmenu txt23">
-								Proin lacinia nisl ut ultricies posuere nulla
-							</span>
 						</div>
 
 						<!-- Item mainmenu -->
 						<div class="item-mainmenu m-b-36">
 							<div class="flex-w flex-b m-b-3">
 								<a href="#" class="name-item-mainmenu txt21">
-									Convallis augue
+									Perkedel
 								</a>
 
 								<div class="line-item-mainmenu bg3-pattern"></div>
 
 								<div class="price-item-mainmenu txt22">
-									$29.15
+									Rp. 2.000
 								</div>
 							</div>
-
-							<span class="info-item-mainmenu txt23">
-								Sed fermentum eros vitae eros
-							</span>
 						</div>
 
 						<!-- Item mainmenu -->
 						<div class="item-mainmenu m-b-36">
 							<div class="flex-w flex-b m-b-3">
 								<a href="#" class="name-item-mainmenu txt21">
-									Maecenas tristique
+									Kerupuk Udang
 								</a>
 
 								<div class="line-item-mainmenu bg3-pattern"></div>
 
 								<div class="price-item-mainmenu txt22">
-									$29.79
+									Rp. 2.000
 								</div>
 							</div>
-
-							<span class="info-item-mainmenu txt23">
-								Feugiat maximus neque pharetra
-							</span>
 						</div>
 
 						<!-- Item mainmenu -->
 						<div class="item-mainmenu m-b-36">
 							<div class="flex-w flex-b m-b-3">
 								<a href="#" class="name-item-mainmenu txt21">
-									Duis tincidunt
+									Kikil
 								</a>
 
 								<div class="line-item-mainmenu bg3-pattern"></div>
 
 								<div class="price-item-mainmenu txt22">
-									$19.35
+									Rp. 3.000
 								</div>
 							</div>
-
-							<span class="info-item-mainmenu txt23">
-								Proin lacinia nisl ut ultricies posuere nulla
-							</span>
 						</div>
 					</div>
 
@@ -536,57 +476,45 @@
 						<div class="item-mainmenu m-b-36">
 							<div class="flex-w flex-b m-b-3">
 								<a href="#" class="name-item-mainmenu txt21">
-									tempus aliquet
+									Ati Ampela Semur
 								</a>
 
 								<div class="line-item-mainmenu bg3-pattern"></div>
 
 								<div class="price-item-mainmenu txt22">
-									$9.79
+									Rp. 6.000
 								</div>
 							</div>
-
-							<span class="info-item-mainmenu txt23">
-								Proin lacinia nisl ut ultricies posuere nulla
-							</span>
 						</div>
 
 						<!-- Item mainmenu -->
 						<div class="item-mainmenu m-b-36">
 							<div class="flex-w flex-b m-b-3">
 								<a href="#" class="name-item-mainmenu txt21">
-									scelerisque
+									Soto Ayam
 								</a>
 
 								<div class="line-item-mainmenu bg3-pattern"></div>
 
 								<div class="price-item-mainmenu txt22">
-									$19.35
+									Rp. 12.000
 								</div>
 							</div>
-
-							<span class="info-item-mainmenu txt23">
-								Sed fermentum eros vitae eros
-							</span>
 						</div>
 
 						<!-- Item mainmenu -->
 						<div class="item-mainmenu m-b-36">
 							<div class="flex-w flex-b m-b-3">
 								<a href="#" class="name-item-mainmenu txt21">
-									Cras maximus
+									Rawon
 								</a>
 
 								<div class="line-item-mainmenu bg3-pattern"></div>
 
 								<div class="price-item-mainmenu txt22">
-									$5.79
+									Rp. 5.000
 								</div>
 							</div>
-
-							<span class="info-item-mainmenu txt23">
-								Duis pharetra ligula at urna dignissim
-							</span>
 						</div>
 					</div>
 				</div>
@@ -920,17 +848,17 @@
 					<ul class="m-b-70">
 						<li class="txt14 m-b-14">
 							<i class="fa fa-map-marker fs-16 dis-inline-block size19" aria-hidden="true"></i>
-							8th floor, 379 Hudson St, New York, NY 10018
+							Jl. A.H. Nasution No.105, Cipadung, Cibiru, Bandung, Jawa Barat 40614
 						</li>
 
 						<li class="txt14 m-b-14">
 							<i class="fa fa-phone fs-16 dis-inline-block size19" aria-hidden="true"></i>
-							(+1) 96 716 6879
+							(+62) 89 522 767 180
 						</li>
 
 						<li class="txt14 m-b-14">
 							<i class="fa fa-envelope fs-13 dis-inline-block size19" aria-hidden="true"></i>
-							contact@site.com
+							warlen@site.com
 						</li>
 					</ul>
 
@@ -941,7 +869,7 @@
 
 					<ul>
 						<li class="txt14">
-							09:30 AM – 11:00 PM
+							06:00 AM – 21:00 PM
 						</li>
 
 						<li class="txt14">
@@ -961,18 +889,18 @@
 							<i class="fa fa-twitter" aria-hidden="true"></i>
 						</span>
 						<a href="#" class="txt15">
-							@colorlib
+							@warlen
 						</a>
 
 						<p class="txt14 m-b-18">
-							Activello is a good option. It has a slider built into that displays the featured image in the slider.
+							Sedia makanan cepat saji, murah meriah dan mudah pemesanannya.
 							<a href="#" class="txt15">
 								https://buff.ly/2zaSfAQ
 							</a>
 						</p>
 
 						<span class="txt16">
-							21 Dec 2017
+							21 Dec 2018
 						</span>
 					</div>
 
@@ -981,18 +909,18 @@
 							<i class="fa fa-twitter" aria-hidden="true"></i>
 						</span>
 						<a href="#" class="txt15">
-							@colorlib
+							@warlen
 						</a>
 
 						<p class="txt14 m-b-18">
-							Activello is a good option. It has a slider built into that displays
+							Kenyamanan anda adalah prioritas kami.
 							<a href="#" class="txt15">
 								https://buff.ly/2zaSfAQ
 							</a>
 						</p>
 
 						<span class="txt16">
-							21 Dec 2017
+							21 Dec 2018
 						</span>
 					</div>
 				</div>
@@ -1068,7 +996,7 @@
 					</div>
 
 					<div class="txt17 p-r-20 p-t-5 p-b-5">
-						Copyright &copy; 2018 All rights reserved  |  This template is made with <i class="fa fa-heart"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+						Copyright &copy; 2018 All rights reserved  |  This template is made with <i class="fa fa-heart"></i> by <a href="https://colorlib.com" target="_blank">Warlen</a>
 					</div>
 				</div>
 			</div>
