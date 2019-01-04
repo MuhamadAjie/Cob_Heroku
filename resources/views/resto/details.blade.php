@@ -247,6 +247,11 @@
                                 <p>
                                     {{ $post->content }}
                                 </p>
+
+                                <p>
+                                    <br> 
+                                    Adapun menu yang tersedia : {{ $post->menu }}
+                                </p>
                             </div>
                         </div>
 

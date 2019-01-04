@@ -150,6 +150,13 @@
 			<li class="t-center m-b-33">
 				<a href="/contact" class="txt19">Contact</a>
 			</li>
+
+			<li class="t-center">
+				<!-- Button3 -->
+				<a href="/reservation" class="btn3 flex-c-m size13 txt11 trans-0-4 m-l-r-auto">
+					Reservation
+				</a>
+			</li>
 		</ul>
 
 		<!-- - -->
@@ -211,7 +218,7 @@
 						</span>
 
 						<h2 class="caption2-slide1 tit1 t-center animated visible-false m-b-37" data-appear="fadeInUp">
-							Warteg Onlen
+							WarLen
 						</h2>
 
 						<div class="wrap-btn-slide1 animated visible-false" data-appear="zoomIn">
@@ -230,7 +237,7 @@
 						</span>
 
 						<h2 class="caption2-slide1 tit1 t-center animated visible-false m-b-37" data-appear="lightSpeedIn">
-							Warteg Onlen
+							WarLen
 						</h2>
 
 						<div class="wrap-btn-slide1 animated visible-false" data-appear="slideInUp">
@@ -249,7 +256,7 @@
 						</span>
 
 						<h2 class="caption2-slide1 tit1 t-center animated visible-false m-b-37" data-appear="rotateInUpRight">
-							Warteg Onlen
+							WarLen
 						</h2>
 
 						<div class="wrap-btn-slide1 animated visible-false" data-appear="rotateIn">
@@ -274,7 +281,7 @@
 				<div class="col-md-6 p-t-45 p-b-30">
 					<div class="wrap-text-welcome t-center">
 						<span class="tit2 t-center">
-							Warteg Onlen
+							Italian Restaurant
 						</span>
 
 						<h3 class="tit3 t-center m-b-35 m-t-5">
@@ -282,7 +289,7 @@
 						</h3>
 
 						<p class="t-center m-b-22 size3 m-l-r-auto">
-							Selamat menikmati layanan aplikasi kami yang menyediakan berbagai informasi, mengenai warteg yang berada disekitar anda.
+							Donec quis lorem nulla. Nunc eu odio mi. Morbi nec lobortis est. Sed fringilla, nunc sed imperdiet lacinia, nisl ante egestas mi, ac facilisis ligula sem id neque.
 						</p>
 
 						<a href="/about" class="txt4">
@@ -309,7 +316,7 @@
 			</span>
 
 			<h3 class="tit4 t-center p-l-15 p-r-15 p-t-3">
-				Warteg Onlen
+				WarLen
 			</h3>
 		</div>
 
@@ -325,12 +332,17 @@
 
 							<div class="wrap-text-blo1 p-t-35">
 								<a href="#"><h4 class="txt5 color0-hov trans-0-4 m-b-13">
-									Tempat yang Bersih
+									Romantic Restaurant
 								</h4></a>
 
 								<p class="m-b-20">
-									Kebersihan tempat makan yang selalu terjaga.
+									Phasellus lorem enim, luctus ut velit eget, con-vallis egestas eros.
 								</p>
+
+								<a href="#" class="txt4">
+									Learn More
+									<i class="fa fa-long-arrow-right m-l-10" aria-hidden="true"></i>
+								</a>
 							</div>
 						</div>
 					</div>
@@ -344,12 +356,17 @@
 
 							<div class="wrap-text-blo1 p-t-35">
 								<a href="#"><h4 class="txt5 color0-hov trans-0-4 m-b-13">
-									Makanan yang Lezat
+									Delicious Food
 								</h4></a>
 
 								<p class="m-b-20">
-									Banyak menu makanan lezat yang bisa anda pesan di warteg online kami.
+									Aliquam eget aliquam magna, quis posuere risus ac justo ipsum nibh urna
 								</p>
+
+								<a href="#" class="txt4">
+									Learn More
+									<i class="fa fa-long-arrow-right m-l-10" aria-hidden="true"></i>
+								</a>
 							</div>
 						</div>
 					</div>
@@ -363,12 +380,17 @@
 
 							<div class="wrap-text-blo1 p-t-35">
 								<a href="#"><h4 class="txt5 color0-hov trans-0-4 m-b-13">
-									Cita Rasa Masakan yang Beranekaragam
+									Red Wines You Love
 								</h4></a>
 
 								<p class="m-b-20">
-									Mulai dari makanan khas sunda sampai daerah jawa.
+									Sed ornare ligula eget tortor tempor, quis porta tellus dictum.
 								</p>
+
+								<a href="#" class="txt4">
+									Learn More
+									<i class="fa fa-long-arrow-right m-l-10" aria-hidden="true"></i>
+								</a>
 							</div>
 						</div>
 					</div>
@@ -501,7 +523,7 @@
 								<a href="#" class="wrap-pic-blo2 bg1-blo2" style="background-image: url(images/event-02.jpg);">
 									<div class="time-event size10 txt6 effect1">
 										<span class="txt-effect1 flex-c-m t-center">
-											08:00 PM Tuesday - 22 January 2019
+											08:00 PM Tuesday - 21 November 2018
 										</span>
 									</div>
 								</a>
@@ -509,12 +531,11 @@
 								<!-- Text block2 -->
 								<div class="wrap-text-blo2 flex-col-c-m p-l-40 p-r-40 p-t-45 p-b-30">
 									<h4 class="tit7 t-center m-b-10">
-										Promo Menarik yang Bisa Anda Dapatkan
+										Wines during specific nights
 									</h4>
 
 									<p class="t-center">
-										Untuk pelanggan setia warteg online, kami mengadakan sejumlah promo
-										dan event untuk menambah minat para konsumen.
+										Donec quis lorem nulla. Nunc eu odio mi. Morbi nec lobortis est. Sed fringilla, nunc sed imperdiet lacinia
 									</p>
 
 									<div class="flex-sa-m flex-w w-full m-t-40">
@@ -559,7 +580,7 @@
 										</div>
 									</div>
 
-									<a href="/menu" class="txt4 m-t-40">
+									<a href="#" class="txt4 m-t-40">
 										View Details
 										<i class="fa fa-long-arrow-right m-l-10" aria-hidden="true"></i>
 									</a>
@@ -589,7 +610,7 @@
 								<a href="#" class="wrap-pic-blo2 bg2-blo2" style="background-image: url(images/event-06.jpg);">
 									<div class="time-event size10 txt6 effect1">
 										<span class="txt-effect1 flex-c-m">
-											08:00 AM Tuesday - 22 January 2018
+											08:00 PM Tuesday - 21 November 2018
 										</span>
 									</div>
 								</a>
@@ -597,12 +618,11 @@
 								<!-- Text block2 -->
 								<div class="wrap-text-blo2 flex-col-c-m p-l-40 p-r-40 p-t-45 p-b-30">
 									<h4 class="tit7 t-center m-b-10">
-										Promo Menarik yang Bisa Anda Dapatkan
+										Wines during specific nights
 									</h4>
 
 									<p class="t-center">
-										Untuk pelanggan setia warteg online, kami mengadakan sejumlah promo
-										dan event untuk menambah minat para konsumen.
+										Donec quis lorem nulla. Nunc eu odio mi. Morbi nec lobortis est. Sed fringilla, nunc sed imperdiet lacinia
 									</p>
 
 									<div class="flex-sa-m flex-w w-full m-t-40">
@@ -647,7 +667,7 @@
 										</div>
 									</div>
 
-									<a href="/menu" class="txt4 m-t-40">
+									<a href="#" class="txt4 m-t-40">
 										View Details
 										<i class="fa fa-long-arrow-right m-l-10" aria-hidden="true"></i>
 									</a>
@@ -677,7 +697,7 @@
 								<a href="#" class="wrap-pic-blo2 bg3-blo2" style="background-image: url(images/event-01.jpg);">
 									<div class="time-event size10 txt6 effect1">
 										<span class="txt-effect1 flex-c-m">
-											10:00 AM Tuesday - 22 January 2019
+											08:00 PM Tuesday - 21 November 2018
 										</span>
 									</div>
 								</a>
@@ -685,12 +705,11 @@
 								<!-- Text block2 -->
 								<div class="wrap-text-blo2 flex-col-c-m p-l-40 p-r-40 p-t-45 p-b-30">
 									<h4 class="tit7 t-center m-b-10">
-										Promo Menarik yang Bisa Anda Dapatkan
+										Wines during specific nights
 									</h4>
 
 									<p class="t-center">
-										Untuk pelanggan setia warteg online, kami mengadakan sejumlah promo
-										dan event untuk menambah minat para konsumen.
+										Donec quis lorem nulla. Nunc eu odio mi. Morbi nec lobortis est. Sed fringilla, nunc sed imperdiet lacinia
 									</p>
 
 									<div class="flex-sa-m flex-w w-full m-t-40">
@@ -735,7 +754,7 @@
 										</div>
 									</div>
 
-									<a href="/menu" class="txt4 m-t-40">
+									<a href="#" class="txt4 m-t-40">
 										View Details
 										<i class="fa fa-long-arrow-right m-l-10" aria-hidden="true"></i>
 									</a>
@@ -748,6 +767,136 @@
 			</div>
 
 			<div class="wrap-slick2-dots"></div>
+		</div>
+	</section>
+
+	<!-- Booking -->
+	<section class="section-booking bg1-pattern p-t-100 p-b-110">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-6 p-b-30">
+					<div class="t-center">
+						<span class="tit2 t-center">
+							Reservation
+						</span>
+
+						<h3 class="tit3 t-center m-b-35 m-t-2">
+							Book table
+						</h3>
+					</div>
+
+					<form class="wrap-form-booking">
+						<div class="row">
+							<div class="col-md-6">
+								<!-- Date -->
+								<span class="txt9">
+									Date
+								</span>
+
+								<div class="wrap-inputdate pos-relative txt10 size12 bo2 bo-rad-10 m-t-3 m-b-23">
+									<input class="my-calendar bo-rad-10 sizefull txt10 p-l-20" type="text" name="date">
+									<i class="btn-calendar fa fa-calendar ab-r-m hov-pointer m-r-18" aria-hidden="true"></i>
+								</div>
+
+								<!-- Time -->
+								<span class="txt9">
+									Time
+								</span>
+
+								<div class="wrap-inputtime size12 bo2 bo-rad-10 m-t-3 m-b-23">
+									<!-- Select2 -->
+									<select class="selection-1" name="time">
+										<option>9:00</option>
+										<option>9:30</option>
+										<option>10:00</option>
+										<option>10:30</option>
+										<option>11:00</option>
+										<option>11:30</option>
+										<option>12:00</option>
+										<option>12:30</option>
+										<option>13:00</option>
+										<option>13:30</option>
+										<option>14:00</option>
+										<option>14:30</option>
+										<option>15:00</option>
+										<option>15:30</option>
+										<option>16:00</option>
+										<option>16:30</option>
+										<option>17:00</option>
+										<option>17:30</option>
+										<option>18:00</option>
+									</select>
+								</div>
+
+								<!-- People -->
+								<span class="txt9">
+									People
+								</span>
+
+								<div class="wrap-inputpeople size12 bo2 bo-rad-10 m-t-3 m-b-23">
+									<!-- Select2 -->
+									<select class="selection-1" name="people">
+										<option>1 person</option>
+										<option>2 people</option>
+										<option>3 people</option>
+										<option>4 people</option>
+										<option>5 people</option>
+										<option>6 people</option>
+										<option>7 people</option>
+										<option>8 people</option>
+										<option>9 people</option>
+										<option>10 people</option>
+										<option>11 people</option>
+										<option>12 people</option>
+									</select>
+								</div>
+							</div>
+
+							<div class="col-md-6">
+								<!-- Name -->
+								<span class="txt9">
+									Name
+								</span>
+
+								<div class="wrap-inputname size12 bo2 bo-rad-10 m-t-3 m-b-23">
+									<input class="bo-rad-10 sizefull txt10 p-l-20" type="text" name="name" placeholder="Name">
+								</div>
+
+								<!-- Phone -->
+								<span class="txt9">
+									Phone
+								</span>
+
+								<div class="wrap-inputphone size12 bo2 bo-rad-10 m-t-3 m-b-23">
+									<input class="bo-rad-10 sizefull txt10 p-l-20" type="text" name="phone" placeholder="Phone">
+								</div>
+
+								<!-- Email -->
+								<span class="txt9">
+									Email
+								</span>
+
+								<div class="wrap-inputemail size12 bo2 bo-rad-10 m-t-3 m-b-23">
+									<input class="bo-rad-10 sizefull txt10 p-l-20" type="text" name="email" placeholder="Email">
+								</div>
+							</div>
+						</div>
+
+						<div class="wrap-btn-booking flex-c-m m-t-6">
+							<!-- Button3 -->
+							<button type="submit" class="btn3 flex-c-m size13 txt11 trans-0-4">
+								Book Table
+							</button>
+						</div>
+					</form>
+				</div>
+
+				<div class="col-lg-6 p-b-30 p-t-18">
+					<div class="wrap-pic-booking size2 bo-rad-10 hov-img-zoom m-l-r-auto">
+						<img src="images/booking-01.jpg" alt="IMG-OUR">
+					</div>
+				</div>
+			</div>
 		</div>
 	</section>
 
@@ -776,7 +925,7 @@
 
 							<div class="content-review m-t-33 animated visible-false" data-appear="fadeInUp">
 								<p class="t-center txt12 size15 m-l-r-auto">
-									“ Sangat memudahkan sekali bagi saya dalam mencari makanan siap saji, terbaiklah webiste ini ”
+									“ We are lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean tellus sem, mattis in pre-tium nec, fermentum viverra dui ”
 								</p>
 
 								<div class="star-review fs-18 color0 flex-c-m m-t-12">
@@ -788,7 +937,7 @@
 								</div>
 
 								<div class="more-review txt4 t-center animated visible-false m-t-32" data-appear="fadeInUp">
-									Narendra Wicaksono ˗ Bandung
+									Marie Simmons ˗ New York
 								</div>
 							</div>
 						</div>
@@ -804,7 +953,7 @@
 
 							<div class="content-review m-t-33 animated visible-false" data-appear="fadeInUp">
 								<p class="t-center txt12 size15 m-l-r-auto">
-									“ Lestarikan makanan khas indonesia, makan ya di warteg ”
+									“ We are lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean tellus sem, mattis in pre-tium nec, fermentum viverra dui ”
 								</p>
 
 								<div class="star-review fs-18 color0 flex-c-m m-t-12">
@@ -816,7 +965,7 @@
 								</div>
 
 								<div class="more-review txt4 t-center animated visible-false m-t-32" data-appear="fadeInUp">
-									Jokowi dodo ˗ Jakarta
+									Marie Simmons ˗ New York
 								</div>
 							</div>
 						</div>
@@ -832,7 +981,7 @@
 
 							<div class="content-review m-t-33 animated visible-false" data-appear="fadeInUp">
 								<p class="t-center txt12 size15 m-l-r-auto">
-									“ Mantep lah ini aplikasi, saya mau cari makan di indonesia jadi mudah ”
+									“ We are lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean tellus sem, mattis in pre-tium nec, fermentum viverra dui ”
 								</p>
 
 								<div class="star-review fs-18 color0 flex-c-m m-t-12">
@@ -844,7 +993,7 @@
 								</div>
 
 								<div class="more-review txt4 t-center animated visible-false m-t-32" data-appear="fadeInUp">
-									Bill Gates ˗ New York
+									Marie Simmons ˗ New York
 								</div>
 							</div>
 						</div>
@@ -899,17 +1048,17 @@
 							<a href="/blog-detail"><img src="images/blog-01.jpg" alt="IMG-INTRO"></a>
 
 							<div class="time-blog">
-								21 Dec 2018
+								21 Dec 2017
 							</div>
 						</div>
 
 						<div class="wrap-text-blo1 p-t-35">
 							<a href="/blog-detail"><h4 class="txt5 color0-hov trans-0-4 m-b-13">
-								Best Places for Eat
+								Best Places for Wine
 							</h4></a>
 
 							<p class="m-b-20">
-								Tempat yang nyaman untuk makan.
+								Phasellus lorem enim, luctus ut velit eget, con-vallis egestas eros.
 							</p>
 
 							<a href="/blog-detail" class="txt4">
@@ -927,17 +1076,17 @@
 							<a href="/blog-detail"><img src="images/blog-02.jpg" alt="IMG-INTRO"></a>
 
 							<div class="time-blog">
-								15 Dec 2018
+								15 Dec 2017
 							</div>
 						</div>
 
 						<div class="wrap-text-blo1 p-t-35">
 							<a href="/blog-detail"><h4 class="txt5 color0-hov trans-0-4 m-b-13">
-								Rice and Chicken
+								Eggs and Cheese
 							</h4></a>
 
 							<p class="m-b-20">
-								Makanan berkualitas dengan harga terjangkau.
+								Duis elementum, risus sit amet lobortis nunc justo condimentum ligula, vitae feugiat
 							</p>
 
 							<a href="/blog-detail" class="txt4">
@@ -955,17 +1104,17 @@
 							<a href="/blog-detail"><img src="images/blog-03.jpg" alt="IMG-INTRO"></a>
 
 							<div class="time-blog">
-								12 Dec 2018
+								12 Dec 2017
 							</div>
 						</div>
 
 						<div class="wrap-text-blo1 p-t-35">
 							<a href="/blog-detail"><h4 class="txt5 color0-hov trans-0-4 m-b-13">
-								Style the Food
+								Style the Wedding Party
 							</h4></a>
 
 							<p class="m-b-20">
-								Makanan yang beranekaragam khas daerah.
+								Sed ornare ligula eget tortor tempor, quis porta tellus dictum.
 							</p>
 
 							<a href="/blog-detail" class="txt4">
@@ -1014,17 +1163,17 @@
 					<ul class="m-b-70">
 						<li class="txt14 m-b-14">
 							<i class="fa fa-map-marker fs-16 dis-inline-block size19" aria-hidden="true"></i>
-							Jl. A.H. Nasution No.105, Cipadung, Cibiru, Bandung, Jawa Barat 40614
+							8th floor, 379 Hudson St, New York, NY 10018
 						</li>
 
 						<li class="txt14 m-b-14">
 							<i class="fa fa-phone fs-16 dis-inline-block size19" aria-hidden="true"></i>
-							(+62) 89 522 767 180
+							(+1) 96 716 6879
 						</li>
 
 						<li class="txt14 m-b-14">
 							<i class="fa fa-envelope fs-13 dis-inline-block size19" aria-hidden="true"></i>
-							warlen@site.com
+							contact@site.com
 						</li>
 					</ul>
 
@@ -1035,7 +1184,7 @@
 
 					<ul>
 						<li class="txt14">
-							06:00 AM – 21:00 PM
+							09:30 AM – 11:00 PM
 						</li>
 
 						<li class="txt14">
@@ -1055,18 +1204,18 @@
 							<i class="fa fa-twitter" aria-hidden="true"></i>
 						</span>
 						<a href="#" class="txt15">
-							@warlen
+							@colorlib
 						</a>
 
 						<p class="txt14 m-b-18">
-							Sedia makanan cepat saji, murah meriah dan mudah pemesanannya.
+							Activello is a good option. It has a slider built into that displays the featured image in the slider.
 							<a href="#" class="txt15">
 								https://buff.ly/2zaSfAQ
 							</a>
 						</p>
 
 						<span class="txt16">
-							21 Dec 2018
+							21 Dec 2017
 						</span>
 					</div>
 
@@ -1075,18 +1224,18 @@
 							<i class="fa fa-twitter" aria-hidden="true"></i>
 						</span>
 						<a href="#" class="txt15">
-							@warlen
+							@colorlib
 						</a>
 
 						<p class="txt14 m-b-18">
-							Kenyamanan anda adalah prioritas kami.
+							Activello is a good option. It has a slider built into that displays
 							<a href="#" class="txt15">
 								https://buff.ly/2zaSfAQ
 							</a>
 						</p>
 
 						<span class="txt16">
-							30 Dec 2018
+							21 Dec 2017
 						</span>
 					</div>
 				</div>
@@ -1162,7 +1311,7 @@
 					</div>
 
 					<div class="txt17 p-r-20 p-t-5 p-b-5">
-						Copyright &copy; 2018 All rights reserved  |  This template is made with <i class="fa fa-heart"></i> by <a href="https://colorlib.com" target="_blank">Warlen</a>
+						Copyright &copy; 2018 All rights reserved  |  This template is made with <i class="fa fa-heart"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
 					</div>
 				</div>
 			</div>

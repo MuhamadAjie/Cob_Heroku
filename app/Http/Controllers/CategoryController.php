@@ -66,7 +66,7 @@ class CategoryController extends Controller
 
         $new_category->save();
 
-        return redirect()->route('admin.categories.create')->with('status', 'Category successfully created');
+        return redirect()->route('categories.create')->with('status', 'Category successfully created');
     }
 
     /**
@@ -124,7 +124,7 @@ class CategoryController extends Controller
 
              $category->slug = str_slug($name);
              $category->save();
-             return redirect()->route('admin.categories.edit', ['id' => $id])->with('status', 'Category succesfully update');
+             return redirect()->route('categories.edit', ['id' => $id])->with('status', 'Category succesfully update');
 
             }
 
@@ -141,7 +141,7 @@ class CategoryController extends Controller
 
         $category->delete();
       
-        return redirect()->route('admin.categories.index')
+        return redirect()->route('categories.index')
         ->with('status', 'Category successfully moved to trash');
     }
 
@@ -158,11 +158,11 @@ class CategoryController extends Controller
         if($category->trashed()){
           $category->restore();
         } else {
-          return redirect()->route('admin.categories.index')
+          return redirect()->route('categories.index')
           ->with('status', 'Category is not in trash');
         }
       
-        return redirect()->route('admin.categories.index')
+        return redirect()->route('categories.index')
         ->with('status', 'Category successfully restored');
     }
 
@@ -170,12 +170,12 @@ class CategoryController extends Controller
         $category = \App\Category::withTrashed()->findOrFail($id);
 
         if(!$category->trashed()){
-          return redirect()->route('admin.categories.index')
+          return redirect()->route('categories.index')
           ->with('status', 'Can not delete permanent active category');
         } else {
           $category->forceDelete();
           
-          return redirect()->route('admin.categories.index')
+          return redirect()->route('categories.index')
           ->with('status', 'Category permanently deleted');
         }
     }

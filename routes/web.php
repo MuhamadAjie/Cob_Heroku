@@ -84,6 +84,7 @@ Route::get('dashboard/users/show', 'UserController@show')->name('users.show');
 Route::resource("/dashboard/users", "UserController");
 
 Route::get('dashboard/categories', 'CategoryController@index')->name('categories.index');
+Route::get('dashboard/categories/create', 'CategoryController@create')->name('categories.create');
 Route::get('dashboard/categories/trash', 'CategoryController@trash')->name('categories.trash');
 Route::get('dashboard/categories/{id}/restore', 'CategoryController@restore')->name('categories.restore');
 Route::delete('dashboard/categories/{id}/delete-permanent', 'CategoryController@deletePermanent')->name('categories.delete-permanent');

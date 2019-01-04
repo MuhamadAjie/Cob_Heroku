@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>Blog</title>
+	<title>Reservation</title>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 <!--===============================================================================================-->
@@ -61,6 +61,10 @@
 								</li>
 
 								<li>
+									<a href="/reservation">Reservation</a>
+								</li>
+
+								<li>
 									<a href="/gallery">Gallery</a>
 								</li>
 
@@ -75,36 +79,7 @@
 								<li>
 									<a href="/contact">Contact</a>
 								</li>
-
-             @if (Auth::guest())
-           
-                <li>
-                <a href="login">LOGIN</a>
-                </li>
-          
-            @else
-               <li class="dropdown">
-                                <a class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
-                                    {{ Auth::user()->name }} <span class="caret"></span>
-                                </a>
-
-                                <ul class="dropdown-menu" role="menu">
-                                    <li>
-                                        <a href="{{ route('logout') }}"
-                                            onclick="event.preventDefault();
-                                            document.getElementById('logout-form').submit();">
-                                            Logout
-                                        </a>
-
-                                        <form id="logout-form" action="{{ route('logout') }}" method="POST" style="display: none;">
-                                            {{ csrf_field() }}
-                                        </form>
-                                    </li>
-                                </ul>
-                            </li>
-                           @endif
-                      </ul>
-
+							</ul>
 						</nav>
 					</div>
 
@@ -145,7 +120,7 @@
 			</li>
 
 			<li class="t-center m-b-13">
-				<a href="/blog" class="txt19">Blog</a>
+				<a href="blog.html" class="txt19">Blog</a>
 			</li>
 
 			<li class="t-center m-b-33">
@@ -154,8 +129,8 @@
 
 			<li class="t-center">
 				<!-- Button3 -->
-				<a href="/login" class="btn3 flex-c-m size13 txt11 trans-0-4 m-l-r-auto">
-					Login
+				<a href="/reservation" class="btn3 flex-c-m size13 txt11 trans-0-4 m-l-r-auto">
+					Reservation
 				</a>
 			</li>
 		</ul>
@@ -210,80 +185,177 @@
 
 
 	<!-- Title Page -->
-	<section class="bg-title-page flex-c-m p-t-160 p-b-80 p-l-15 p-r-15" style="background-image: url(images/bg-title-page-03.jpg);">
+	<section class="bg-title-page flex-c-m p-t-160 p-b-80 p-l-15 p-r-15" style="background-image: url(images/bg-title-page-02.jpg);">
 		<h2 class="tit6 t-center">
-			Blog
+			Reservation
 		</h2>
 	</section>
 
 
-	<!-- Content page -->
-	<section>
-		<div class="bread-crumb bo5-b p-t-17 p-b-17">
-			<div class="container">
-				<a href="/" class="txt27">
-					Home
-				</a>
-
-				<span class="txt29 m-l-10 m-r-10">/</span>
-
-				<span class="txt29">
-					Blog
-				</span>
-			</div>
-		</div>
-
+	<!-- Reservation -->
+	<section class="section-reservation bg1-pattern p-t-100 p-b-113">
 		<div class="container">
 			<div class="row">
-				<div class="col-md-8 col-lg-9">
-					<div class="p-t-80 p-b-124 bo5-r h-full p-r-50 p-r-0-md bo-none-md">
-		
+				<div class="col-lg-12 p-b-30">
+					<div class="t-center">
+						<span class="tit2 t-center">
+							Reservation
+						</span>
 
-							<div class="text-blo4 p-t-33">
-								 @foreach($posts as $post)
-								<h4 class="p-b-16">
-									<a href="#" class="tit9">{{$post->title}}</a>
-								</h4>
+						<h3 class="tit3 t-center m-b-35 m-t-2">
+							Book table
+						</h3>
+					</div>
 
-								<div class="txt32 flex-w p-b-24">
-									<span>
-										by Admin
-										<span class="m-r-6 m-l-4">|</span>
-									</span>
+					<form class="wrap-form-reservation size22 m-l-r-auto">
+						<div class="row">
+							<div class="col-md-4">
+								<!-- Date -->
+								<span class="txt9">
+									Date
+								</span>
 
-									<span>
-										{{$post->created}}
-										<span class="m-r-6 m-l-4">|</span>
-									</span>
-
+								<div class="wrap-inputdate pos-relative txt10 size12 bo2 bo-rad-10 m-t-3 m-b-23">
+									<input class="my-calendar bo-rad-10 sizefull txt10 p-l-20" type="text" name="date">
+									<i class="btn-calendar fa fa-calendar ab-r-m hov-pointer m-r-18" aria-hidden="true"></i>
 								</div>
+							</div>
 
-								<p>
-									 <?php
-			                            if (!function_exists('limit_kata'))   {
-			                        function limit_kata($string, $kata_limit)	{
-			                            $kalimat = explode(" ",$string);
-			                        return implode(" ",array_splice($kalimat,0,$kata_limit));
-                            }
-                        }
-                                $long_string = $post->content;
-                                $limited_string = limit_kata($long_string, 20);
-                                echo $limited_string;
-                        
-                            ?>                   
-								</p>
+							<div class="col-md-4">
+								<!-- Time -->
+								<span class="txt9">
+									Time
+								</span>
 
-								 <a href="{{ route('resto.details', $post->id) }}" class="dis-block txt4 m-t-30">
-									Continue Reading
-									<i class="fa fa-long-arrow-right m-l-10" aria-hidden="true"></i>
-								</a>
-								<br>
-								   @endforeach
+								<div class="wrap-inputtime size12 bo2 bo-rad-10 m-t-3 m-b-23">
+									<!-- Select2 -->
+									<select class="selection-1" name="time">
+										<option>9:00</option>
+										<option>9:30</option>
+										<option>10:00</option>
+										<option>10:30</option>
+										<option>11:00</option>
+										<option>11:30</option>
+										<option>12:00</option>
+										<option>12:30</option>
+										<option>13:00</option>
+										<option>13:30</option>
+										<option>14:00</option>
+										<option>14:30</option>
+										<option>15:00</option>
+										<option>15:30</option>
+										<option>16:00</option>
+										<option>16:30</option>
+										<option>17:00</option>
+										<option>17:30</option>
+										<option>18:00</option>
+									</select>
+								</div>
+							</div>
+
+							<div class="col-md-4">
+								<!-- People -->
+								<span class="txt9">
+									People
+								</span>
+
+								<div class="wrap-inputpeople size12 bo2 bo-rad-10 m-t-3 m-b-23">
+									<!-- Select2 -->
+									<select class="selection-1" name="people">
+										<option>1 person</option>
+										<option>2 people</option>
+										<option>3 people</option>
+										<option>4 people</option>
+										<option>5 people</option>
+										<option>6 people</option>
+										<option>7 people</option>
+										<option>8 people</option>
+										<option>9 people</option>
+										<option>10 people</option>
+										<option>11 people</option>
+										<option>12 people</option>
+									</select>
+								</div>
 							</div>
 						</div>
+
+						<div class="row">
+							<div class="col-md-4">
+								<!-- Name -->
+								<span class="txt9">
+									Name
+								</span>
+
+								<div class="wrap-inputname size12 bo2 bo-rad-10 m-t-3 m-b-23">
+									<input class="bo-rad-10 sizefull txt10 p-l-20" type="text" name="name" placeholder="Name">
+								</div>
+							</div>
+
+							<div class="col-md-4">
+								<!-- Phone -->
+								<span class="txt9">
+									Phone
+								</span>
+
+								<div class="wrap-inputphone size12 bo2 bo-rad-10 m-t-3 m-b-23">
+									<input class="bo-rad-10 sizefull txt10 p-l-20" type="text" name="phone" placeholder="Phone">
+								</div>
+							</div>
+
+							<div class="col-md-4">
+								<!-- Email -->
+								<span class="txt9">
+									Email
+								</span>
+
+								<div class="wrap-inputemail size12 bo2 bo-rad-10 m-t-3 m-b-23">
+									<input class="bo-rad-10 sizefull txt10 p-l-20" type="text" name="email" placeholder="Email">
+								</div>
+							</div>
+
+						</div>
+
+						<div class="wrap-btn-booking flex-c-m m-t-6">
+							<!-- Button3 -->
+							<button type="submit" class="btn3 flex-c-m size13 txt11 trans-0-4">
+								Book Table
+							</button>
+						</div>
+					</form>
+				</div>
+			</div>
+
+			<div class="info-reservation flex-w p-t-80">
+				<div class="size23 w-full-md p-t-40 p-r-30 p-r-0-md">
+					<h4 class="txt5 m-b-18">
+						Reserve by Phone
+					</h4>
+
+					<p class="size25">
+						Donec quis euismod purus. Donec feugiat ligula rhoncus, varius nisl sed, tincidunt lectus.
+						<span class="txt25">Nulla vulputate</span>
+						, lectus vel volutpat efficitur, orci
+						<span class="txt25">lacus sodales</span>
+						 sem, sit amet quam:
+						<span class="txt24">(001) 345 6889</span>
+					</p>
+				</div>
+
+				<div class="size24 w-full-md p-t-40">
+					<h4 class="txt5 m-b-18">
+						For Event Booking
+					</h4>
+
+					<p class="size26">
+						Donec feugiat ligula rhoncus:
+						<span class="txt24">(001) 345 6889</span>
+						, varius nisl sed, tinci-dunt lectus sodales sem.
+					</p>
+				</div>
+
+			</div>
 		</div>
 	</section>
-
 
 
 	<!-- Footer -->
@@ -462,6 +534,9 @@
 		</span>
 	</div>
 
+	<!-- Container Selection1 -->
+	<div id="dropDownSelect1"></div>
+
 
 
 <!--===============================================================================================-->
@@ -488,8 +563,6 @@
 	<script type="text/javascript" src="vendor/countdowntime/countdowntime.js"></script>
 <!--===============================================================================================-->
 	<script type="text/javascript" src="vendor/lightbox2/js/lightbox.min.js"></script>
-<!--===============================================================================================-->
-	<script type="text/javascript" src="vendor/isotope/isotope.pkgd.min.js"></script>
 <!--===============================================================================================-->
 	<script src="js/main.js"></script>
 

@@ -100,7 +100,7 @@ class UserController extends Controller
 
         $new_user->save();
         
-        return redirect()->route('admin.users.create')->with('status', 'User successfully created');
+        return redirect()->route('users.create')->with('status', 'User successfully created');
     }
 
 
@@ -163,7 +163,7 @@ class UserController extends Controller
 
         $user->save();
 
-        return redirect()->route('admin.users.edit', ['id' => $id])->with('status', 'User succesfully updated');
+        return redirect()->route('users.edit', ['id' => $id])->with('status', 'User succesfully updated');
     }
 
     /**
@@ -178,6 +178,6 @@ class UserController extends Controller
 
         $user->delete();
 
-        return redirect()->route('admin.users.index')->with('status', 'User successfully deleted');
+        return redirect()->route('users.index')->with('status', 'User successfully deleted');
     }
 }

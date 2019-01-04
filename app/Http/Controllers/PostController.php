@@ -37,8 +37,7 @@ class PostsController extends Controller
         $this->validate($request, [
             'title' => 'required',
             'alamat' => 'required',
-            'content' => 'required',
-            'menu' => 'required'
+            'content' => 'required'
 
         ]);
         
@@ -67,8 +66,7 @@ class PostsController extends Controller
         $this->validate($request, [
             'title' => 'required',
             'alamat' => 'required',
-            'content' => 'required',
-            'menu' => 'required'
+            'content' => 'required'
         ]);
         
         //get post data

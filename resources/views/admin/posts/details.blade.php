@@ -26,6 +26,12 @@
     </div>
     <div class="col-xs-12 col-sm-12 col-md-12">
         <div class="form-group">
+            <strong>Menu:</strong>
+            {{ $post->menu }}
+        </div>
+    </div>
+    <div class="col-xs-12 col-sm-12 col-md-12">
+        <div class="form-group">
             <strong>Published On:</strong>
             {{ $post->created }}
         </div>

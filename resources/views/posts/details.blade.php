@@ -20,14 +20,14 @@
     </div>
     <div class="col-xs-12 col-sm-12 col-md-12">
         <div class="form-group">
-            <strong>Alamat:</strong>
-            {{ $post->alamat }}
+            <strong>Content:</strong>
+            {{ $post->content }}
         </div>
     </div>
     <div class="col-xs-12 col-sm-12 col-md-12">
         <div class="form-group">
-            <strong>Content:</strong>
-            {{ $post->content }}
+            <strong>Menu:</strong>
+            {{ $post->menu }}
         </div>
     </div>
     <div class="col-xs-12 col-sm-12 col-md-12">

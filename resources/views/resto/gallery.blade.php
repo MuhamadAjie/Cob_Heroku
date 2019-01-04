@@ -226,19 +226,19 @@
 			</button>
 
 			<button class="label-gallery txt26 trans-0-4" data-filter=".interior">
-				Interior
+				Gallery 1
 			</button>
 
 			<button class="label-gallery txt26 trans-0-4" data-filter=".food">
-				Food
+				Gallery 2
 			</button>
 
 			<button class="label-gallery txt26 trans-0-4" data-filter=".events">
-				Events
+				Gallery 3
 			</button>
 
 			<button class="label-gallery txt26 trans-0-4" data-filter=".guests">
-				Vip guests
+				Gallery 4
 			</button>
 		</div>
 

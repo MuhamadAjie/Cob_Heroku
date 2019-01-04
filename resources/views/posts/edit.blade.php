@@ -26,13 +26,19 @@
                     <div class="form-group">
                         <label class="control-label col-sm-2" >Alamat</label>
                         <div class="col-sm-10">
-                            <textarea name="alamat" id="alamat" class="form-control">{{ $post->content }}</textarea>
+                            <textarea name="alamat" id="alamat" class="form-control">{{ $post->alamat }}</textarea>
                         </div>
                     </div>
                     <div class="form-group">
                         <label class="control-label col-sm-2" >Content</label>
                         <div class="col-sm-10">
                             <textarea name="content" id="content" class="form-control">{{ $post->content }}</textarea>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label class="control-label col-sm-2" >Menu</label>
+                        <div class="col-sm-10">
+                            <textarea name="menu" id="menu" class="form-control">{{ $post->menu }}</textarea>
                         </div>
                     </div>
                     <div class="form-group">

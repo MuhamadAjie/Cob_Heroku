@@ -24,8 +24,8 @@
                     <!-- Table Headings -->
                     <thead>
                         <th width="25%">Title</th>
-                        <th width="10%">Alamat</th>
                         <th width="30%">Content</th>
+                        <th width="10%">Menu</th>
                         <th width="15%">Created</th>
                         <th width="20%">Action</th>
                     </thead>
@@ -38,10 +38,10 @@
                                 <div>{{$post->title}}</div>
                             </td>
                             <td class="table-text">
-                                <div>{{$post->alamat}}</div>
+                                <div>{{$post->content}}</div>
                             </td>
                             <td class="table-text">
-                                <div>{{$post->content}}</div>
+                                <div>{{$post->menu}}</div>
                             </td>
                                 <td class="table-text">
                                 <div>{{$post->created}}</div>
